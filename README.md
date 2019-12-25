@@ -1,0 +1,1 @@
+This is Lenin's First git project!
